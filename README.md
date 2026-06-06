@@ -68,17 +68,6 @@ A collection of Digital Design and RTL projects implemented using **Verilog HDL*
 
 ---
 
-## 🔮 Upcoming Projects
-
-* FIFO Design
-* UART Transmitter & Receiver
-* Sequence Detector
-* SPI Controller
-* Simple CPU
-* Memory Modules
-
----
-
 ## 👨‍💻 Author
 
 **Ritesh Kumar**
